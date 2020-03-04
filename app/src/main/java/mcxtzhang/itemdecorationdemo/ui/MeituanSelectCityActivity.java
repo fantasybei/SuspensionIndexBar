@@ -11,8 +11,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.mcxtzhang.indexlib.IndexBar.bean.BaseIndexPinyinBean;
-import com.mcxtzhang.indexlib.IndexBar.widget.IndexBar;
+import com.mcxtzhang.indexlib.indexBar.bean.BaseIndexPinyinBean;
+import com.mcxtzhang.indexlib.indexBar.widget.IndexBar;
 import com.mcxtzhang.indexlib.suspension.SuspensionDecoration;
 
 import java.util.ArrayList;

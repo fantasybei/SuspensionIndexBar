@@ -1,6 +1,6 @@
 package mcxtzhang.itemdecorationdemo.model;
 
-import com.mcxtzhang.indexlib.IndexBar.bean.BaseIndexPinyinBean;
+import com.mcxtzhang.indexlib.indexBar.bean.BaseIndexPinyinBean;
 
 import java.util.List;
 
